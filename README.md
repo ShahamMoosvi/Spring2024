@@ -2,3 +2,4 @@
 
 this is a README.md
 * Point 1 *Test* **Test**
+* Point 2
